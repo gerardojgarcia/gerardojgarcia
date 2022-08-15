@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerardojgarcia
 - 👀 I’m interested in ... full-stack web development
-- 🌱 I’m currently learning ... laravel
+- 🌱 I’m currently learning ... vue & laravel
 - 💞️ I’m looking to collaborate on ... Composting Web App
 - 📫 How to reach me ...
 
