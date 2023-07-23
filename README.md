@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gerardojgarcia
 - 👀 I’m interested in ... full-stack web development
-- 🌱 I’m currently learning ... vue & laravel
-- 💞️ I’m looking to collaborate on ... Composting Web App
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... Nuxt3
 
 <!---
 gerardojgarcia/gerardojgarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
